@@ -1,3 +1,3 @@
-# lecture05-javascript-part3 (JavaScript with HTML DOM)
+# lecture06-javascript-part3 (JavaScript with HTML DOM)
 
-lecture05 live-coding.
+lecture06 live-coding.
